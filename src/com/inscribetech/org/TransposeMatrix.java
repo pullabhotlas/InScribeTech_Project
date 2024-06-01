@@ -31,7 +31,6 @@ public class TransposeMatrix {
 		for (List<Integer> row : transposedMatrix) {
 			
 			System.out.println(row);
-			
 		}
 		
 	}
